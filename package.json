@@ -1,5 +1,5 @@
 {
-  "name": "randid",
+  "name": "randids",
   "version": "1.0.0",
   "description": "Generates a cryptographically secure and unique random ID!",
   "main": "index.js",
