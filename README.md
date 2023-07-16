@@ -18,7 +18,7 @@ npm i randid
 # Example Usage
 
 ```javascript
-const randomid = require("randid");
+const randomid = require("randids");
 
 const length = 15 //default 11
 
