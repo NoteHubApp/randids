@@ -12,7 +12,7 @@ This package generates unique and cryptographically secure IDS according to your
 # Instalation: 
 
 ```bash
-npm i randid
+npm i randids
 ```
 
 # Example Usage
