@@ -1,0 +1,12 @@
+{
+  "name": "randId",
+  "version": "1.0.0",
+  "description": "Generates a secure and unique randomId using the node crypto module!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shaheer Ahamed",
+  "license": "ISC"
+}
