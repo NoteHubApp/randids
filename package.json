@@ -1,11 +1,16 @@
 {
   "name": "randids",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generates a cryptographically secure and unique random ID!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoteHubApp/randids"
+  },
+  "homepage": "https://github.com/NoteHubApp/randids#readme",
   "keywords": ["id", "randomID", "secureid", "uniqueid", "crypto", "nodejs", "javascript"],
   "author": "Shaheer Ahamed",
   "license": "MIT"

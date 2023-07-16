@@ -1,4 +1,4 @@
-# randid
+# randids
 
 This package generates unique and cryptographically secure IDS according to your desired length!
 
