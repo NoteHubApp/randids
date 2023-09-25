@@ -24,3 +24,7 @@ const length = 15 //default 11
 
 randomid.genId(length)
 ```
+
+# Collision rate
+
+Randids has a very low collision rate and the ids are cryptographically secure. They have been tested against benchmarks, see (here)[https://notehubapp.tech/notes/5ffc2052-9af4-4b4e-b4b8-2a6f1ea1f0f4]
